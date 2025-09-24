@@ -1,8 +1,14 @@
-P5X\client\bin\Media\Windows is where the audio files are.
-Fileformats[.acb][.awb]
+P5X\client\bin\Media\Windows is where the audio files are. Fileformats -[.acb]-[.awb]-[[.usm]
+___________________________________________________________________________________________________________________________________
 .awb (Adaptive Waveform Binary)
 Stores compressed or uncompressed audio data that .acb references Once extracted, you might get audio in formats like WAV or ADX.
+____________________________________________________________________________________________________________________________________
 .acb (Audio Cue Binary)
 Holds multiple audio files (like music tracks, sound effects, or voice lines) along with metadata.
+____________________________________________________________________________________________________________________________________
 .usm (CRI Movie)
 Stores video cutscenes, often with audio and subtitles embedded, using a proprietary compression method.
+____________________________________________________________________________________________________________________________________
+What can open those files. 
+List
+1.
